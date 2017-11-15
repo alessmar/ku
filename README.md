@@ -12,9 +12,8 @@ A simple checksum utility written in Kotlin that allow to compute hash using sev
 
 Compile the project with:
 
-
 ```
-mvn clean package
+mvn package
 ```
 
 ## Running
@@ -22,5 +21,5 @@ mvn clean package
 Run the utility:
 
 ```
-java -jar target/
+java -jar target\checksum-utility-0.3-jar-with-dependencies.jar alessmar.Calculator
 ```
