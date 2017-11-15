@@ -23,3 +23,5 @@ Run the utility:
 ```
 java -jar target\checksum-utility-0.3-jar-with-dependencies.jar alessmar.Calculator
 ```
+
+![checksum](images/checksum.png)
