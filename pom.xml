@@ -5,6 +5,7 @@
   <artifactId>checksum-utility</artifactId>
   <version>0.3</version>
   <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <kotlin.version>1.2.31</kotlin.version>
     <main.class>alessmar.Calculator</main.class>
   </properties>
