@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/alessmar/ChecksumUtility.svg?branch=master)](https://travis-ci.org/alessmar/ChecksumUtility) 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Checksum Utility
