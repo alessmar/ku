@@ -5,7 +5,7 @@
   <artifactId>checksum-utility</artifactId>
   <version>0.3</version>
   <properties>
-    <kotlin.version>1.1.51</kotlin.version>
+    <kotlin.version>1.2.31</kotlin.version>
     <main.class>alessmar.Calculator</main.class>
   </properties>
   <build>
@@ -13,9 +13,8 @@
     <testSourceDirectory>${project.basedir}/src/test/kotlin</testSourceDirectory>
     <plugins>
       <plugin>
-        <artifactId>kotlin-maven-plugin</artifactId>
         <groupId>org.jetbrains.kotlin</groupId>
-        <version>${kotlin.version}</version>
+    	<artifactId>kotlin-maven-plugin</artifactId>
         <configuration/>
         <executions>
           <execution>
