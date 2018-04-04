@@ -1,7 +1,6 @@
 package alessmar
 
 import java.security.MessageDigest
-import javax.xml.bind.DatatypeConverter
 import java.io.File
 import java.io.BufferedInputStream
 import java.io.FileInputStream
