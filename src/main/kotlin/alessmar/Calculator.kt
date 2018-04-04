@@ -76,7 +76,7 @@ class Calculator : Application() {
 
 			hashMenu.getItems().addAll(hashMenuItem)
 		}
-		hashGroup.selectedToggleProperty().addListener { ov, oldT, newT ->
+		hashGroup.selectedToggleProperty().addListener { _, oldT, newT ->
 			if (oldT != newT) {
 				newT?.let {
 					val hash: String = newT.getUserData() as String
