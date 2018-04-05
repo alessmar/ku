@@ -1,7 +1,5 @@
 [![Build Status](https://travis-ci.org/alessmar/ChecksumUtility.svg?branch=master)](https://travis-ci.org/alessmar/ChecksumUtility) 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Donate](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-yellowgreen.svg)](https://ko-fi.com/Y8Y6BN8C)
-
 
 # Checksum Utility
 
@@ -9,8 +7,7 @@ A simple checksum utility written in Kotlin that allow to compute hash using sev
 
 ### Prerequisites
 
-* Java 8+
-* Maven 3
+* [Maven](https://maven.apache.org/) - Dependency Management
 
 ### Compiling
 
@@ -20,18 +17,12 @@ Compile the project with:
 mvn package
 ```
 
-### Running
+## Running
 
-Run with `mvn`: 
-
-```
-mvn exec:java
-```
-
-or with `java`: 
+Run the utility:
 
 ```
-java -jar checksum-utility-0.9.0-jar-with-dependencies.jar
+java -jar target\checksum-utility-0.3-jar-with-dependencies.jar
 ```
 
 ![checksum](images/checksum.png)

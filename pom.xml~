@@ -15,7 +15,7 @@
     <plugins>
       <plugin>
         <groupId>org.jetbrains.kotlin</groupId>
-        <artifactId>kotlin-maven-plugin</artifactId>
+    	<artifactId>kotlin-maven-plugin</artifactId>
         <version>${kotlin.version}</version>
         <configuration/>
         <executions>
@@ -35,7 +35,7 @@
           </execution>
         </executions>
       </plugin>
-      <plugin>
+<plugin>
         <groupId>org.codehaus.mojo</groupId>
         <artifactId>exec-maven-plugin</artifactId>
         <version>1.6.0</version>
@@ -82,10 +82,10 @@
       <artifactId>kotlin-stdlib</artifactId>
       <version>${kotlin.version}</version>
     </dependency>
-    <dependency>
-      <groupId>org.bouncycastle</groupId>
+	<dependency>
+	  <groupId>org.bouncycastle</groupId>
       <artifactId>bcprov-jdk16</artifactId>
       <version>1.46</version>
-    </dependency>
+	</dependency>
   </dependencies>
 </project>
