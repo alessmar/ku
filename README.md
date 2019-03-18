@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/alessmar/ChecksumUtility.svg?branch=master)](https://travis-ci.org/alessmar/ku) 
+[![Build Status](https://travis-ci.org/alessmar/ku.svg?branch=master)](https://travis-ci.org/alessmar/ku) 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Donate](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-yellowgreen.svg)](https://ko-fi.com/Y8Y6BN8C)
 
