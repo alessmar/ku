@@ -3,7 +3,7 @@
 [![Donate](https://img.shields.io/badge/donate-buy%20me%20a%20coffee-yellowgreen.svg)](https://ko-fi.com/Y8Y6BN8C)
 
 
-# Checksum Utility
+# ku - Checksum Utility
 
 A simple checksum utility written in Kotlin that allow to compute hash using several algorithm. It uses JavaFX to build the UI.
 
